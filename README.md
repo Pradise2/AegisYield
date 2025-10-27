@@ -1,5 +1,4 @@
 
-
 ---
 
 # AegisYield: AI-Powered DeFi Vault 🛡️📈
